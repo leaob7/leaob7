@@ -5,6 +5,8 @@
 - 💡 Familiaridade com BackEnd mas apaixonado por FrontEnd.
 - 😄 Pronomes: ele/dele.
 
+##
+
 
 <div align="center">
       <img align="right" height="180em" style="border-radius:50px;" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif"/>
