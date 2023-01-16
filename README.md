@@ -1,7 +1,7 @@
 
 ## Bem vindo!
 
-- 📚 Estudando Web Development FullStack em Trybe.
+- 📚 Formado em Web Development FullStack em Trybe.
 - 💡 Familiaridade em Fullstack.
 - 😄 Pronomes: ele/dele.
 
