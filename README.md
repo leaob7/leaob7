@@ -11,11 +11,9 @@
 <div align="center">
       <img align="right" height="180em" style="border-radius:50px;" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif"/>
   <a href="https://github.com/leaob7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leaob7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaob7&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-  ##
+
   
 <div style="display: inline_block"><br>
   <a href = ""> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"> </a>
